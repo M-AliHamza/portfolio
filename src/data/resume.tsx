@@ -155,7 +155,7 @@ export const DATA = {
         'Azure Entra ID',
         'Vector Databases',
         'n8n',
-        'JavaScript',
+        'TypeScript',
       ],
       links: [],
       image: '',
