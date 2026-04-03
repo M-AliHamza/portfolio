@@ -55,6 +55,12 @@ export const DATA = {
 
         navbar: true,
       },
+      LeetCode: {
+        name: 'LeetCode',
+        url: 'https://leetcode.com/u/m_ali_hamza/',
+        icon: Icons.leetcode,
+        navbar: true,
+      },
       X: {
         name: 'X',
         url: 'https://x.com/ali_hamza___',
