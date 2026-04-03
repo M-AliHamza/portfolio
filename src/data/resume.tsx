@@ -157,6 +157,27 @@ export const DATA = {
       githubLink: '',
     },
     {
+      title: 'DGA – AI Document Redaction & Anonymization Engine',
+      href: '#',
+      dates: '',
+      active: true,
+      description:
+        'An automated AI-driven workflow that redacts sensitive personal data and handwritten signatures from real estate documents for Germany’s leading property auction house.',
+      detailedDescription:
+        "This sophisticated automation pipeline streamlines legal compliance and data privacy by:\n\n• **Automated PII Redaction**: Leverages a custom FastAPI Python backend to scan and mask sensitive personal identifiable information (PII) within complex PDF documents  \n• **Signature Detection**: Employs computer vision to identify and securely hide handwritten signatures, ensuring GDPR compliance for public listings  \n• **Intelligent Whitelisting**: Integrates with TYPO3 CMS via REST API to dynamically 'whitelist' specific property addresses while redacting all other location data  \n• **Multi-Language AI Communication**: Uses LLM agents (LangChain) to detect sender language and provide context-specific email responses in German or English  \n• **Robust Error Logging**: Features a comprehensive monitoring layer that tracks every stage of the document lifecycle, from IMAP trigger to final cloud storage\n",
+      technologies: [
+        'n8n',
+        'Python',
+        'FastAPI',
+        'LangChain',
+        'REST API',
+      ],
+      links: [],
+      image: '',
+      video: '',
+      githubLink: '',
+    },
+    {
       title: 'GDPR Compliance Crawler',
       href: '#',
       dates: '',
