@@ -128,7 +128,7 @@ export const DATA = {
       grade: 'A+',
     },
     {
-      school: 'Govt High School No. 2',
+      school: 'Govt High School Sargodha',
       href: 'https://share.google/5zq5vryQS10HiDn0e',
       degree: 'Secondary School Certificate (Science Group)',
       logoUrl: '/bise-sargodha.png',
