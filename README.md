@@ -30,7 +30,10 @@ Currently working at GoSign, designing and implementing AI-powered automation wo
 ## Featured Projects
 
 **Pilot AI – Enterprise AI Chatbot Platform**
-A scalable enterprise AI chatbot platform that enables intelligent, multimodal interactions across text, images, and documents. Built using Next.js, LangChain, Azure AI Foundry, and n8n.
+A scalable enterprise AI chatbot platform that enables intelligent, multimodal interactions across text, images, and documents. Built with a Python backend, LangChain, Azure AI Foundry, and n8n automation workflows.
+
+**DGA – AI Document Redaction & Anonymization Engine**
+An AI-driven document processing pipeline that automates PII redaction, handwritten signature detection, and GDPR-safe workflows for real estate documents.
 
 **GDPR Compliance Crawler**
 A comprehensive GDPR compliance tool that automatically scans websites for cookies, external resources, and potential privacy violations.
