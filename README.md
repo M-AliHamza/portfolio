@@ -1,6 +1,6 @@
 # Ali Hamza - Portfolio
 
-A modern, responsive portfolio website showcasing my work as an AI Engineer, Workflow Automation Expert, and Full-Stack Developer.
+A modern, responsive portfolio website showcasing my work as a Backend Engineer | AI & Automation.
 
 ## Overview
 
@@ -10,7 +10,7 @@ This portfolio website presents my professional experience, technical skills, an
 
 ## About
 
-I am an AI Engineer and Workflow Automation Specialist with a strong focus on building intelligent, scalable systems that streamline business processes and enhance productivity. I specialize in building modern web applications, serverless cloud solutions, and AI-integrated systems.
+I am a Backend Engineer and Workflow Automation Specialist with a strong focus on building intelligent, scalable systems that streamline business processes and enhance productivity. I specialize in building modern web applications, serverless cloud solutions, and AI-integrated systems.
 
 **Expertise Highlights:**
 - **AI & Automation**: LangChain, LangGraph, n8n Workflow Automation, Trigger.dev
@@ -23,7 +23,7 @@ Currently working at GoSign, designing and implementing AI-powered automation wo
 
 ## Experience Highlights
 
-- **AI Engineer | Workflow Automation Expert | Full-Stack Developer** at GoSign (Current)
+- **Backend Engineer | AI & Automation** at GoSign (Current)
 - **Full Stack Developer** - Self-Employed (Freelance)
 
 
@@ -105,6 +105,6 @@ This portfolio is deployed on Vercel. Any push to the main branch automatically 
 
 ---
 
-**Live Site**: https://alihamza.dev
+**Live Site**: https://m-ali-hamza.vercel.app/
 
 Built with Next.js, TypeScript, and Tailwind CSS
